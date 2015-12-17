@@ -1,7 +1,7 @@
 name: Aashish Nathwani
 favicon: null
-layout_spectrum: 0.18811
-typography_spectrum: 0.017553699668496847
+layout_spectrum: 1
+typography_spectrum: 0.25088
 cta:
   domain: null
   bucket: null
@@ -16,7 +16,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.4251763036008924
+  brandStrength: 0
   lightness: 0.9027726312633604
   saturation: 0.5876714992336929
   rhythmicContrast: 0.8856352656148374
